@@ -1,1 +1,1 @@
-# Sample iOS app testing with Appium - Maven - TestNG on Amazon Device Farm.
+# Sample iOS app automation with Appium - Java - Maven - TestNG and executin on real devices using Amazon Device Farm tool.
